@@ -1,1 +1,2 @@
-# prviprojektapp
+# 9GAGclone
+Ruby on Rails Project
